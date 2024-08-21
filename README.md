@@ -34,11 +34,11 @@ warnings.filterwarnings('ignore')
 - job_level:level of job
 - job_type:type of the job
 ## Goal of project:
-to know the skills which need for a jobs
-to know the jobs providing countries and cities
-to know the which skills need to be learn for a specific position
-to get connections with high proffessional employees and experienced employees
-to know which location providings jobs for our requirment
+- to know the skills which need for a jobs,
+- to know the jobs providing countries and cities,
+- to know the which skills need to be learn for a specific position,
+- to get connections with high proffessional employees and experienced employees,
+- to know which location providings jobs for our requirement.
 
 ## Data Preparation
 Explorings rows and columns
